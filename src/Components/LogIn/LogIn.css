@@ -1,0 +1,55 @@
+.CancelButton {
+    background: rgba(255, 0, 0, 0.4);
+    width: 37%;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.CancelButton:hover {
+    background-color: red;
+    width: 37%;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.LogInButton {
+    background: rgba(255, 255, 255, 0.9);
+    color: black;
+    width: 57%;
+    box-sizing: border-box;
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    float: right;
+}
+
+.LogInButton:hover {
+    background-color: rgba(43, 255, 0, 0.5);
+    ;
+    color: white;
+    width: 57%;
+    box-sizing: border-box;
+    margin: 10px;
+    border-radius: 5px;
+    float: right;
+}
+
+#signUpLink {
+    color: orange;
+}
+
+#findPassword {
+    color: orange;
+}
+
+.signUpClass {
+    float: right;
+    margin-right: 2%;
+}
+
+.forgotPasswordClass {
+    float: left;
+    margin-left: 2%;
+}
